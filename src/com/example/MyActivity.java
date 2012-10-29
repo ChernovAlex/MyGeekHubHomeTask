@@ -23,11 +23,9 @@ public class MyActivity extends Activity{
         final Button button = (Button) findViewById(R.id.f_btn);
         button.setOnClickListener(new OnClickListener(){
             public void onClick(View view){
-                //Toast.makeText(getApplicationContext(), "Hello", Toast.LENGTH_SHORT).show();
                 startActivity(intent);
+
             }
         });
     }
-
-
 }
