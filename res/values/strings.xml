@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">task_2</string>
+    <string name="number_frg">Random number</string>
+    <string name="generate_number">Random number</string>
+</resources>
